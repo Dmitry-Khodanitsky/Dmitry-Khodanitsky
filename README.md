@@ -18,6 +18,8 @@ Here are the projects that I completed during my studies:
 
 1. **[brain-games](https://github.com/dimahodanit/braing-games)** - A console application on node.js, built on the principle of popular mobile applications for pumping up the brain.
 
+2. **[Differences finder](https://github.com/Dmitry-Khodantisky/difference-finder)** - A console application that determines the difference between two data structures. Support for different input formats: yaml, yml, json. Generating a report in plain text, style and json formats
+
 ## 📫 How to contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dimakamch)
