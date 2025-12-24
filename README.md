@@ -5,7 +5,7 @@ Hi! I'm a beginner front-end developer. I completed a course at [Hexlet](https:/
 Here I publish my educational and pet-projects
 
 ## 🛠 My skills
-
+[(https://skillicons.dev/icons?i=js,html,css, react, git, redux, ts, vite, jest, bootstrap)](https://skillicons.dev)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript]([https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black](https://skillicons.dev/icons?i=js,html,css,react,docker,nodejs,nextjs,neovim,vite,sass,jest,bootstrap,babel,git,ts,webstorm,redux&perline=9))
