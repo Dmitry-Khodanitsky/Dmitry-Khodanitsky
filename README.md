@@ -1,8 +1,8 @@
 # Hello, my name is Dmitry Khodanitsky! 👋
 
 ## About me
-
-I am a beginner frontend developer, I am studying on the [Hexlet](https://ru.hexlet.io/) platform. Here I publish my educational  and pet-projects that I do on my own during the training process. Each project undergoes code review with a mentor and refactoring to improve the quality of the code.
+Hi! I'm a beginner front-end developer. I completed a course at [Hexlet](https://ru.hexlet.io/) and worked on several projects, from console utilities in Node.js to a full-fledged instant messaging app (like Slack) at first.
+Here I publish my educational and pet-projects
 
 ## 🛠 My skills
 
