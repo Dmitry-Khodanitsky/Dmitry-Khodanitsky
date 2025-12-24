@@ -5,8 +5,7 @@ Hi! I'm a beginner front-end developer. I completed a course at [Hexlet](https:/
 Here I publish my educational and pet-projects
 
 My contacts:
-Telegram: @dima_kamch
-email: dimahodanitsky@gmail.com
+Telegram: [@dima_kamch](https://t.me/dimakamch)  Email: dimahodanitskiy@gmail.com
 
 ## 🛠 My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,git,vite,jest&theme=light)](https://skillicons.dev)
