@@ -4,8 +4,14 @@
 Hi! I'm a beginner front-end developer. I completed a course at [Hexlet](https://ru.hexlet.io/) and worked on several projects, from console utilities in Node.js to a full-fledged instant messaging app (like Slack) at first.
 Here I publish my educational and pet-projects
 
+My contacts:
+Telegram: @dima_kamch
+email: dimahodanitsky@gmail.com
+
 ## 🛠 My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,git,vite,jest&theme=light)](https://skillicons.dev)
+
+
 
 ## 📂 My educational projects
 
