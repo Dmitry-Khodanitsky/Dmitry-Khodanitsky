@@ -11,7 +11,7 @@ Here I publish my educational and pet-projects
 
 Here are the projects that I completed during my studies:
 
-1. **[brain-games](https://github.com/dimahodanit/braing-games)** - A console application on node.js, built on the principle of popular mobile applications for pumping up the brain.
+1. **[Brain games](https://github.com/dimahodanit/braing-games)** - A console application on node.js, built on the principle of popular mobile applications for pumping up the brain.
 
 2. **[Differences finder](https://github.com/Dmitry-Khodantisky/difference-finder)** - A console application that determines the difference between two data structures. Support for different input formats: yaml, yml, json. Generating a report in plain text, style and json formats
 3. **[RSS Aggregator](https://github.com/Dmitry-Khodanitsky/RSS-Aggregator)**  - A single-page application (SPA) for reading and managing RSS feeds with automatic updates, allowing users to follow multiple sources in one unified interface.
