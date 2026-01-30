@@ -29,8 +29,6 @@ Here are the projects that I completed during my studies:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dimakamch)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dimahodanitkiy@gmail.com)
 
-## 💡 My goals for the next year
-- [ ] Find my first job in development
 
 ---
 ⭐️ Thank you for visiting my profile! I will be glad to receive feedback and cooperation.
