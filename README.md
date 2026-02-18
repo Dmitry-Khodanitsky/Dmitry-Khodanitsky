@@ -5,7 +5,7 @@ I am a frontend developer. I completed the "Frontend Developer" course at [Hexle
 My tech stack: React, TypeScript, Redux Toolkit, RTK Query, REST API, WebSocket, Vite, Git, CI/CD.  
 Currently I contribute to the development of [Hexlet CV](https://cv.hexlet.io) - a service for IT specialists.
 
-Previously I worked as a project curator and technical support specialist, which helps me see the real user behind the code and collaborate effectively within a team.
+My background in fintech support (JSC Tochka) helps me bridge the gap between business goals and user needs, ensuring that every feature solves real-world problems.
 
 **Contacts:**  
 📧 Email: [dimahodanitskiy@gmail.com](mailto:dimahodanitskiy@gmail.com)  
@@ -21,12 +21,13 @@ Here are both educational and commercial projects I have worked on:
 ### 💼 Commercial project
 - **[Hexlet CV](https://cv.hexlet.io)** - a service for creating IT resumes and career assistance.  
   Stack: React, TypeScript, Inertia.js, Mantine UI, i18next, MSW, Vite.  
-  *Implemented user dashboard, adaptive UI, API integration, internationalization.*
+  *Implemented dynamic dashboard using **Render Props/Slots** patterns, adaptive UI with **Mantine UI**, and autonomous frontend development via **MSW**.*
 
 ### 🧠 Educational projects
-1. **[SPA messenger (Slack clone)](https://github.com/Dmitry-Khodanitsky/frontend-project-12)** - React SPA with WebSocket, JWT auth, Redux Toolkit and RTK Query.
+1. **[SPA messenger (Slack clone)](https://github.com/Dmitry-Khodanitsky/frontend-project-12)** - React SPA with real-time messaging via **WebSockets**, complex state management with **RTK Query**, and secure **JWT authentication**
 2. **[RSS Aggregator](https://github.com/Dmitry-Khodanitsky/RSS-Aggregator)** - SPA in pure JavaScript with REST API, XML parsing and i18n.
-3. **[Difference Finder (GenDiff)](https://github.com/Dmitry-Khodanitsky/GenDiff)** - CLI tool for comparing JSON/YAML files with CI/CD support.
+3. **[Difference Finder (GenDiff)](https://github.com/Dmitry-Khodanitsky/GenDiff)** - CLI tool for comparing JSON/YAML files featuring **AST-based** data comparison algorithms and **GitHub Actions** CI/CD.
+
 4. **[Brain Games](https://github.com/Dmitry-Khodanitsky/brain-games)** - a set of console games on Node.js, published to npm.
 
 ## 📫 How to reach me
